@@ -67,5 +67,5 @@ I develop and test my resource-intensive projects on the following setup:
 ### 📫 Connect with me
 
 [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dmn.kadirefe@hotmail.com)
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) **kadirr5792**
+Discord: **kadirr5792**
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-efe-duman-73008a1a4)
