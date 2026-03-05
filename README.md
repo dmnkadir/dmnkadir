@@ -27,23 +27,28 @@ I am a **Computer Engineering** student at Kocaeli University. My passion lies i
 A high-performance tool developed for autonomous robots to process and visualize raw LIDAR data.
 - **Algorithms:** Implemented **RANSAC** for line detection and **PCA** (Principal Component Analysis) for precision refinement.
 - **Low-Level Logic:** Developed a **manual TOML parser** from scratch using standard C functions to eliminate external library dependencies.
-- **Tech:** C++, Raylib, libcurl.
+- **Tech:** C, Raylib, libcurl.
 
-#### 📚 [Citation Graph Analysis Tool](https://github.com/dmnkadir)
+#### 📚 [Citation Graph Analysis Tool](https://github.com/dmnkadir/Citation-Graph-Analysis)
 A desktop application designed to analyze complex citation networks between academic papers.
 - **Centrality:** Implemented **Brandes' Algorithm** ($O(V \cdot E)$) to calculate betweenness centrality and identify influential nodes.
 - **Data Parsing:** Developed a stack-based **custom JSON parser** for high-speed raw data processing without external libraries.
 - **Tech:** C#, WPF (.NET).
 
-#### 🛡️ [Valhalla Defense (Unity Tower Defense)](https://github.com/dmnkadir)
+#### 🛡️ [Valhalla Defense (Unity Tower Defense)](https://github.com/dmnkadir/Valhalla-Defense-Unity)
 A Norse mythology-themed strategy game built with a strict focus on **Clean Code** and **OOP** principles.
 - **Architecture:** Heavily utilizes Singleton patterns, Inheritance, and Polymorphism for scalable game logic.
 - **Feature:** Includes a timestamped logging system to verify and debug real-time damage calculations.
 - **Tech:** C#, Unity Engine.
 
-#### 🌐 [Captive Portal Automator](https://github.com/dmnkadir)
+#### 🌐 [Captive Portal Automator](https://github.com/dmnkadir/Gsb-Wifi-Automator)
 A utility tool developed to automate the login process for university Wi-Fi portals.
 - **Logic:** Automates `curl` requests and manages network session states via a WPF interface.
+- **Tech:** C#, WPF.
+
+#### 🔫 [CS2 Profile Loader](https://github.com/dmnkadir/CS2-Profile-Loader)
+A specialized desktop utility for managing and switching between Counter-Strike 2 game configurations.
+- **Automation:** Simplifies the process of profile file manipulation and backup.
 - **Tech:** C#, WPF.
 
 ---
