@@ -61,6 +61,6 @@ A specialized desktop utility for managing and switching between Counter-Strike 
 | :--- | :--- |
 | [![Hotmail](https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:dmn.kadirefe@hotmail.com) | **dmn.kadirefe@hotmail.com** |
 | ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) | **kadirr5792** |
-| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/kadirefeduman/)) | **Kadir Efe Duman** |
+| [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadirefeduman/)
 
 ---
