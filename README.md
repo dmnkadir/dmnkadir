@@ -31,7 +31,7 @@ A high-performance tool developed for autonomous robots to process and visualize
 
 #### 📚 [Citation Graph Analysis Tool](https://github.com/dmnkadir/Citation-Graph-Analysis)
 A desktop application designed to analyze complex citation networks between academic papers.
-- **Centrality:** Implemented **Brandes' Algorithm** ($O(V \cdot E)$) to calculate betweenness centrality and identify influential nodes.
+- **Centrality:** Implemented **Brandes' Algorithm** to calculate betweenness centrality and identify influential nodes.
 - **Data Parsing:** Developed a stack-based **custom JSON parser** for high-speed raw data processing without external libraries.
 - **Tech:** C#, WPF (.NET).
 
@@ -53,22 +53,7 @@ A specialized desktop utility for managing and switching between Counter-Strike 
 
 ---
 
-### 💻 Development Workstation
 
-I develop and test my projects on the following setup:
-- **Model:** Dell G16 7630
-- **CPU:** Intel Core i9-13900HX
-- **GPU:** NVIDIA GeForce RTX 4070 (8GB VRAM)
-- **RAM:** 32 GB
-
----
-
-### 📊 GitHub Stats
-
-![Kadir's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmnkadir&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmnkadir&layout=compact&theme=dark)
-
----
 
 ### 📫 Connect with me
 
