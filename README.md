@@ -23,7 +23,7 @@ I am a **Computer Engineering** student at Kocaeli University. My passion lies i
 
 ### Featured Projects
 
-#### 📡 [LIDAR Visualization & Autonomous Docking](https://github.com/dmnkadir/Lidar-Visualization-Project)
+#### [LIDAR Visualization & Autonomous Docking](https://github.com/dmnkadir/Lidar-Visualization-Project)
 A high-performance tool developed for autonomous robots to process and visualize raw LIDAR data.
 - **Algorithms:** Implemented **RANSAC** for line detection and **PCA** (Principal Component Analysis) for precision refinement.
 - **Low-Level Logic:** Developed a **manual TOML parser** from scratch using standard C functions to eliminate external library dependencies.
